@@ -1,10 +1,10 @@
 # Studying Kafka 
 
-A nice simple example of event-driven apps:
+A nice, simple example of event-driven apps:
 
 - works both for Kafka and RabbitMQ
-- nice example of profiled pom.xml (-Pkfaka)
-- Docker composer for messaging services includes kafdrop
+- profiled dependency of pom.xml (-Pkfaka) (lets Spring framework do the rest)
+- messaging services provided by Docker compose (includes kafdrop)
 
 ## Problem
 
