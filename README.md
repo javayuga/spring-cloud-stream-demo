@@ -1,3 +1,11 @@
+# Studying Kafka 
+
+A nice simple example of event-driven apps:
+
+- works both for Kafka and RabbitMQ
+- nice example of profiled pom.xml (-Pkfaka)
+- Docker composer for messaging services includes kafdrop
+
 ## Problem
 
 You just want to write logic for your event driven application, but the boilerplate messaging code keeps getting in the way and it's costing you time.  Connecting your apps to messaging servers is cumbersome and you need to work with multiple messaging technologies in your organisation depending on which team you're working in.
